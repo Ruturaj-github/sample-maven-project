@@ -26,8 +26,8 @@
   <distributionManagement>
       <repository>
           <id>central</id>
-          <name>ip-172-31-25-124.ec2.internal-releases</name>
-          <url>http://ec2-34-228-9-119.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
+          <name>myrepo-group</name>
+          <url>http://34.203.243.150:8081/repository/myrepo-group/</url>
       </repository>
   </distributionManagement>
 
